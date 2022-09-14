@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1031822883019",
+    "project_id": "vibespot-a7d72",
+    "storage_bucket": "vibespot-a7d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031822883019:android:2d82489cd07b7d66ec434e",
+        "android_client_info": {
+          "package_name": "com.vibespot.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031822883019-kjrponhn5e1bvc3m325kbgmg7ekb9p2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vibespot.mobile",
+            "certificate_hash": "aa064f464273cf95cf1d9da580136429ed96a196"
+          }
+        },
+        {
+          "client_id": "1031822883019-0cqtn5vtruvub8nl4671hmm156bdn0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInM0qjONssfLYsmtKngNylcL_iMluZR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031822883019-0cqtn5vtruvub8nl4671hmm156bdn0g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031822883019-97f7u1pfqmm64odjdn7memu3meomtbv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vibespot.mobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031822883019:android:148074d6ec8bdfd7ec434e",
+        "android_client_info": {
+          "package_name": "com.vsartist.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031822883019-0cqtn5vtruvub8nl4671hmm156bdn0g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInM0qjONssfLYsmtKngNylcL_iMluZR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031822883019-0cqtn5vtruvub8nl4671hmm156bdn0g2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031822883019-97f7u1pfqmm64odjdn7memu3meomtbv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vibespot.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
