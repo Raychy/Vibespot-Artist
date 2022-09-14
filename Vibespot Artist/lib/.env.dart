@@ -1,6 +1,6 @@
 const ENV = {
-  'PRODUCTION_BASE_URL': 'https://becknowledge.com/vibespot',
-  'DEVELOPMENT_BASE_URL': 'https://becknowledge.com/vibespot',
+  'PRODUCTION_BASE_URL': ' https://vibespot.trashit.com.ng',
+  'DEVELOPMENT_BASE_URL': ' https://vibespot.trashit.com.ng',
   'YOUTUBE_API_KEY': 'AIzaSyB7qwE0LF-Js1YRjyFmA5lXxoN94AIFIGU',
   'PAYSTACK_KEY_TEST': 'pk_test_cf4a5bdb51cf971f14b13cd16bf59b4d382ecff5',
   'PAYSTACK_KEY_LIVE': 'pk_live_4531751ef20bb49fe16fcb718dc78bd5c12b183a',
